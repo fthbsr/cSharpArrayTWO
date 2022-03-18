@@ -1,0 +1,15 @@
+/Users/fatihbasar/Desktop/arrayTwo/bin/Debug/net6.0/arrayTwo
+/Users/fatihbasar/Desktop/arrayTwo/bin/Debug/net6.0/arrayTwo.deps.json
+/Users/fatihbasar/Desktop/arrayTwo/bin/Debug/net6.0/arrayTwo.runtimeconfig.json
+/Users/fatihbasar/Desktop/arrayTwo/bin/Debug/net6.0/arrayTwo.dll
+/Users/fatihbasar/Desktop/arrayTwo/bin/Debug/net6.0/arrayTwo.pdb
+/Users/fatihbasar/Desktop/arrayTwo/obj/Debug/net6.0/arrayTwo.csproj.AssemblyReference.cache
+/Users/fatihbasar/Desktop/arrayTwo/obj/Debug/net6.0/arrayTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihbasar/Desktop/arrayTwo/obj/Debug/net6.0/arrayTwo.AssemblyInfoInputs.cache
+/Users/fatihbasar/Desktop/arrayTwo/obj/Debug/net6.0/arrayTwo.AssemblyInfo.cs
+/Users/fatihbasar/Desktop/arrayTwo/obj/Debug/net6.0/arrayTwo.csproj.CoreCompileInputs.cache
+/Users/fatihbasar/Desktop/arrayTwo/obj/Debug/net6.0/arrayTwo.dll
+/Users/fatihbasar/Desktop/arrayTwo/obj/Debug/net6.0/refint/arrayTwo.dll
+/Users/fatihbasar/Desktop/arrayTwo/obj/Debug/net6.0/arrayTwo.pdb
+/Users/fatihbasar/Desktop/arrayTwo/obj/Debug/net6.0/arrayTwo.genruntimeconfig.cache
+/Users/fatihbasar/Desktop/arrayTwo/obj/Debug/net6.0/ref/arrayTwo.dll
